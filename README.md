@@ -75,7 +75,7 @@ public class SeckillController {
 
 - 使用 Jmeter 测试
 
-  POST 请求访问 [http://localhost:8080//seckill/goods](http://localhost:8080//seckill/goods)
+  POST 请求访问 [http://localhost:8080/seckill/goods](http://localhost:8080/seckill/goods)
 
   > 测试前准备工作：
   >
